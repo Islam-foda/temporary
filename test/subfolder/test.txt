@@ -1,0 +1,3 @@
+test text
+
+i check for new line
